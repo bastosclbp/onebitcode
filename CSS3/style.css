@@ -1,0 +1,29 @@
+li {
+  color: gray;
+}
+
+h1 {
+  color: #97e702;
+  font-size: 50px;
+  border: 2px solid yellow;
+}
+
+body {
+  background-image: url(https://www.spacex.com/vehicles/starship/assets/images/STARSHIP_STARBASE_Desktop.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.moon {
+  color: blue;
+  font-size: 20px;
+}
+
+.big-text {
+  font-size: 40px;
+}
+
+#europa-text {
+  font-size: 10px;
+  color: beige;
+}
