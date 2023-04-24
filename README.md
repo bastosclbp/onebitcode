@@ -1,7 +1,36 @@
-<h1 align="center">
-  <br>
-  <a href="https://onebitcode.com/lp/"><img src="https://cdn.areademembros.com/files/instancia_1851/image/kFD8sGrWPV6uX7tFtw8IcI7JRJKPoTp4N01LUzFu.png" alt="Onebitcode" width="26"></a>
-  <br>
-  Curso FullStack JS Onebitcode
-  <br>
-</h1>
+
+![Logo](https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/7ba73aaa-3da9-4cf1-abf2-ccc85dea5875/uid_3592131/logo-obc-2021-lightbg.png)
+
+
+# Curso FullStack JS 
+
+Estudando para se tornar um desenvolvedor FullStack JS
+
+
+## Referência
+
+ - [Onebitcode](https://onebitcode.com/lp/)
+
+## Apêndice
+
+Todas as aulas e exercícios serão inseridos.
+
+
+## Documentação
+
+[Documentação](https://onebitcode.com/lp/)
+
+
+## Autores
+
+- [@bastosclbp](https://github.com/bastosclbp)
+
+
+## 🚀 Sobre mim
+Eu sou uma pessoa estudando full-stack JS.
+## Stack utilizada
+
+**Front-end:** HTML, CSS e JS
+
+**Back-end:** JS
+
