@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Aprendendo HTML</title>
+  </head>
+
+  <body>
+    <header>
+      <h1>Olá, mundo!</h1>
+      <h2>Bora dominar a linguagem HTML!</h2>
+    </header>
+
+    <main>
+      <section>
+        <p>Navegue entre os arquivos das aulas:</p>
+        <nav>
+          <a href="formatacao/">Aula: Elementos de Formatação</a><br />
+          <a href="comentarios/">Aula: Comentários</a><br />
+          <a href="imagens/">Aula: Elementos de imagem e atributos</a><br />
+          <a href="br-e-hr/">Aula: Quebras de linha e régua horizontal</a><br />
+          <a href="div-e-span/">Aula: Organização de código com div e span</a
+          ><br />
+          <a href="links/">Aula: Trabalhando com links</a><br />
+          <a href="listas/">Aula: Criação de Listas</a><br />
+          <a href="tabelas/">Aula: Criação de Tabelas</a><br />
+          <a href="formularios/">Aula: Criação de Formulários</a><br />
+          <a href="formularios/inputs/">Aula: Criação de Inputs</a><br />
+          <a href="semantica/">Aula: Elementos Semânticos</a><br />
+          <a href="acessibilidade/"
+            >Aula: WAI-ARIA e atributos de acessibilidade</a
+          ><br />
+        </nav>
+      </section>
+
+      <section>
+        <p>Navegue entre os exercícios:</p>
+        <nav>
+          <a href="exercicios/exercicio-01/"
+            >Exercício 1: Escrevendo um artigo</a
+          ><br />
+          <a href="exercicios/exercicio-02/"
+            >Exercício 2: Criando um site com navegação</a
+          ><br />
+          <a href="exercicios/exercicio-03/">Exercício 3: Lista de Álbuns</a
+          ><br />
+          <a href="exercicios/exercicio-04/">Exercício 4: Tabela de Inscritos</a
+          ><br />
+          <a href="exercicios/exercicio-05/"
+            >Exercício 5: Formulário de Inscrição</a
+          ><br />
+          <a href="exercicios/exercicio-final/"
+            >Exercício final: Criando um site completo</a
+          >
+        </nav>
+      </section>
+    </main>
+
+    <hr />
+
+    <footer>
+      <audio id="meuAudio" autoplay controls>
+        <source src="Rihanna.mp3" type="audio/mp3" />
+      </audio>
+
+      <script>
+        // Espera o carregamento da página
+        window.addEventListener("DOMContentLoaded", function () {
+          const audio = document.getElementById("meuAudio");
+          audio.volume = 0.5; // Volume de 0 a 1 (0.5 = 50%)
+        });
+      </script>
+
+      <!-- <video width="320" height="240" autoplay controls>
+      <source src="Sequence 04.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video> -->
+    </footer>
+  </body>
+</html>
