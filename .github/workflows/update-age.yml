@@ -8,6 +8,9 @@ on:
 jobs:
   update-age:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
     steps:
       - name: Clonar repositório
         uses: actions/checkout@v3
