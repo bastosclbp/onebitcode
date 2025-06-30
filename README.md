@@ -27,7 +27,7 @@ Todas as aulas e exercícios serão inseridos.
 
 
 ## 🚀 Sobre mim
-Carlos Leonardo é um apaixonado por tecnologia e veículos automotivos, nascido e criado nas vibrantes ruas do Rio de Janeiro. Com seus <!-- idade -->29<!-- /idade --> anos, ele é um entusiasta incansável de carros, motos e tudo que envolve hardware, software, programação e eletrônica.
+Carlos Leonardo é um apaixonado por tecnologia e veículos automotivos, nascido e criado nas vibrantes ruas do Rio de Janeiro. Com seus <!-- idade -->28<!-- /idade --> anos, ele é um entusiasta incansável de carros, motos e tudo que envolve hardware, software, programação e eletrônica.
 
 Com uma trajetória marcante, Carlos serviu como militar por oito anos, onde desenvolveu disciplina, resiliência e um forte senso de responsabilidade. No entanto, sua paixão pela tecnologia e pelo mundo dos veículos sempre o impulsionou a explorar novos horizontes.
 
